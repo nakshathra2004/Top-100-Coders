@@ -1,8 +1,8 @@
-# Full Name 
+# Nakshathra Nambiar
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>A second year Btech student in Computer Science and Engineering at GCEK
 
 
 ### Portfolio Highlights
@@ -16,6 +16,7 @@
 #### Networking: `required field`
 
 - explain your networking skills and how you plan to engage with the Top 100 community. Outline how you will influence and lead others in your respective field.
+- https://www.linkedin.com/in/nakshathra-nambiar-36029426a/
 
 #### As a Top 100 Member: `required field`
 
